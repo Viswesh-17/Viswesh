@@ -3,5 +3,6 @@
  
 📊 I'm looking for exciting opportunities as a Data Analyst to contribute my data  analytics and insights generation skills.
 
-💡 I'm also interested in roles such as Design Strategist, Product Analyst,  to contribute my skills in  Front-End, and Design Thinking skills.
-#Area of Interests
+💡 I'm also interested in roles such as Design Strategist and product Analyst, where I can contribute my Front-End and Design Thinking skills.
+
+# Area of Interests
