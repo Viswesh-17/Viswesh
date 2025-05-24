@@ -3,7 +3,7 @@
  
 📊 I'm seeking exciting opportunities as an IoT developer and Data Analyst to utilize my data analytics and insights generation skills in addressing real-life problems.
 
-💡 I'm also interested in roles such as IOT developer, Design Strategist and product Analyst, where I can contribute my Front-End and Design Thinking skills.
+💡 I'm also interested in roles such as  Design Strategist and product Analyst,Front-end developer where I can contribute my Front-End and Design Thinking skills.
 
 # 📍 Area of Interests
 
