@@ -24,6 +24,10 @@
 #  Skills
 
 ![image](https://github.com/user-attachments/assets/5f60698d-7053-417b-b2cb-a5141046cae4)
+![image](https://github.com/user-attachments/assets/fa6ae080-1af0-4451-9785-c7a57383eb09)
+![image](https://github.com/user-attachments/assets/c75dd393-0813-498f-a509-ef46cc2ace14)
+![image](https://github.com/user-attachments/assets/4f43348f-8d7a-48d4-9f2e-5333c3ceadce)
+![image](https://github.com/user-attachments/assets/96de689e-a7ae-4b33-a741-de48b62d4030)
 
 
 
