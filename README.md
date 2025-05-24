@@ -56,7 +56,7 @@ Additionally, I am eager to apply the skills acquired in my B.Tech to solve real
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Viswesh-17&" alt="nviswesh-17" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viswesh-17&show_icons=true&locale=en" alt="nviswesh-17" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viswesh-17&show_icons=true&locale=en&layout=compact" alt="nviswesh-17" /></p>
 
