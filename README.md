@@ -46,4 +46,4 @@ Additionally, I am eager to apply the skills acquired in my B.Tech to solve real
 
 - 📫 How to reach me **nviswesh1709@gmail.com**
 - 📝 Resume - "https://drive.google.com/file/d/1Yo1eZXsSHW8E4jowkXDBbuEL0s0TIKX_/view?usp=drive_link"
-- ⚡ Fun fact **I like Painting,Drawing,Sketching, know playing keyboard and I am Introvert😶‍🌫️.**
+- ⚡ Fun fact **I enjoy painting, drawing, and sketching. I also know how to play the keyboard, and I consider myself an introvert. 😶‍🌫️**
