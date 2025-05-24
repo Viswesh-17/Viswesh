@@ -15,6 +15,8 @@
 
 • Data Science & Analytics (Python, SQL, MS Excel)
 
-• Front-End Development(CSS,HTML,JS)
+• Front-End Development (CSS,HTML,JS)
+
+• Computer Vision (OpenCV)
 
 
