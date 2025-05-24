@@ -1,10 +1,15 @@
+
+[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://rishavchanda.io)
+
 # 👋 Hi everyone, I am Nanapu Viswesh!
  I recently graduated with a B.Tech in Computer Science and Engineering from IIITDM Kurnool.
- 
+ <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="200" width="300">
 📊 I'm seeking exciting opportunities as an IoT developer and Data Analyst to utilize my data analytics and insights generation skills in addressing real-life problems.
 
 💡 I'm also interested in roles such as  Design Strategist and Product Analyst, Front-end developer where I can contribute my Front-End and Design Thinking skills.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nviswesh-17&label=Profile%20views&color=0e75b6&style=flat" alt="nviswesh-17" /> </p>
 
 # 📍 Area of Interests
 
@@ -40,10 +45,17 @@ Additionally, I am eager to apply the skills acquired in my B.Tech to solve real
 <p align="center">
 <a href="www.linkedin.com/in/viswesh-nanapu-9ba59a279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswesh nanapu" height="50" width="50" /></a>
 <a href="https://leetcode.com/u/Viswesh_n_17/"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" height="50" width="50"/> </a>
-
+<a href="nviswesh1709@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" height="50" width="50"/></a>
 </p>
-<h3 align="left">Reach Me out at</h3>
 
-- 📫 How to reach me **nviswesh1709@gmail.com**
-- 📝 Resume - "https://drive.google.com/file/d/1Yo1eZXsSHW8E4jowkXDBbuEL0s0TIKX_/view?usp=drive_link"
-- ⚡ Fun fact **I enjoy painting, drawing, and sketching. I also know how to play the keyboard, and I consider myself an introvert. 😶‍🌫️**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Yo1eZXsSHW8E4jowkXDBbuEL0s0TIKX_/view?usp=drive_link](https://drive.google.com/file/d/1Yo1eZXsSHW8E4jowkXDBbuEL0s0TIKX_/view?usp=drive_link)
+
+⚡ Fun fact **I enjoy painting, drawing, and sketching. I also know how to play the keyboard, and I consider myself an introvert. 😶‍🌫️**
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Viswesh-17&" alt="nviswesh-17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viswesh-17&show_icons=true&locale=en" alt="nviswesh-17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viswesh-17&show_icons=true&locale=en&layout=compact" alt="nviswesh-17" /></p>
+
