@@ -29,5 +29,8 @@
 ![image](https://github.com/user-attachments/assets/4f43348f-8d7a-48d4-9f2e-5333c3ceadce)
 ![image](https://github.com/user-attachments/assets/96de689e-a7ae-4b33-a741-de48b62d4030)
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/viswesh nanapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswesh nanapu" height="30" width="40" /></a>
+</p>
 
