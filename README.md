@@ -3,7 +3,7 @@
  
 📊 I'm seeking exciting opportunities as an IoT developer and Data Analyst to utilize my data analytics and insights generation skills in addressing real-life problems.
 
-💡 I'm also interested in roles such as  Design Strategist and product Analyst,Front-end developer where I can contribute my Front-End and Design Thinking skills.
+💡 I'm also interested in roles such as  Design Strategist and Product Analyst, Front-end developer where I can contribute my Front-End and Design Thinking skills.
 
 # 📍 Area of Interests
 
@@ -20,5 +20,10 @@
 • Computer Vision (OpenCV)
 
 • Other coding Languages(Python,C,C++,C#)
+
+#  Skills
+
+![image](https://github.com/user-attachments/assets/5f60698d-7053-417b-b2cb-a5141046cae4)
+
 
 
