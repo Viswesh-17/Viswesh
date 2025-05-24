@@ -4,6 +4,7 @@
 # 👋 Hi everyone, I am Nanapu Viswesh!
  I recently graduated with a B.Tech in Computer Science and Engineering from IIITDM Kurnool.
  <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="200" width="300">
+ 
 📊 I'm seeking exciting opportunities as an IoT developer and Data Analyst to utilize my data analytics and insights generation skills in addressing real-life problems.
 
 💡 I'm also interested in roles such as  Design Strategist and Product Analyst, Front-end developer where I can contribute my Front-End and Design Thinking skills.
