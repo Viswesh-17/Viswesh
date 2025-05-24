@@ -8,3 +8,9 @@
 # Area of Interests
 
 Data Visualization (Matplotlib,pytorch)
+
+Machine Learning and Deep Learning (TensorFlow, PyTorch, Scikit-learn)
+
+Virtual Environment(Unity,Pygame,Real Engine)
+
+Data Science & Analytics (Python, SQL, MS Excel)
