@@ -6,3 +6,5 @@
 💡 I'm also interested in roles such as Design Strategist and product Analyst, where I can contribute my Front-End and Design Thinking skills.
 
 # Area of Interests
+
+Data Visualization (Matplotlib,pytorch)
