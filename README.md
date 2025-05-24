@@ -1,4 +1,4 @@
-#👋 Hi everyone, I am Nanapu Viswesh!
+# 👋 Hi everyone, I am Nanapu Viswesh!
  I recently graduated with a B.Tech in Computer Science and Engineering from IIITDM Kurnool.
  
 📊 I'm seeking exciting opportunities as an IoT developer and Data Analyst to utilize my data analytics and insights generation skills in addressing real-life problems.
