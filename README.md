@@ -14,3 +14,7 @@
 • Virtual Environment(Unity,Pygame,Real Engine)
 
 • Data Science & Analytics (Python, SQL, MS Excel)
+
+• Front-End Development(CSS,HTML,JS)
+
+
