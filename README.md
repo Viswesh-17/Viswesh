@@ -52,7 +52,7 @@ Additionally, I am eager to apply the skills acquired in my B.Tech to solve real
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Yo1eZXsSHW8E4jowkXDBbuEL0s0TIKX_/view?usp=drive_link](https://drive.google.com/file/d/1Yo1eZXsSHW8E4jowkXDBbuEL0s0TIKX_/view?usp=drive_link)
 
-⚡ Fun fact **I enjoy painting, drawing, and sketching. I also know how to play the keyboard, and I consider myself an introvert. 😶‍🌫️**
+⚡ Fun fact **I enjoy painting, drawing, and sketching. I also play the keyboard, and yes, you are correct: I am an introvert. 😶‍🌫️**
 
 
 
